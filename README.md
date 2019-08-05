@@ -9,7 +9,7 @@
 ### 先決條件
 :pushpin: 
 1. 請確保在 `Chrome` 上能夠執行
-2. 可以使用任何 library 來取得資料及排版
+2. 可以使用任何 library 來取得資料及排版，須滿足 `desktop`, `pad`, `mobile` 的排版
 3. 需使用 vue, react framework 或 Vanilla JS 來完成
 
 ### 功能需求
